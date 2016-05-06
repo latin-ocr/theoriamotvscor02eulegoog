@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./theoriamotvscor02eulegoog/theoriamotvscor02eulegoog_0582.png"; bbox 0 0 3734 5016; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 131 1351 1393 1963">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 131 1351 1393 1963">
+     <span class='ocr_line' id='line_1_1' title="bbox 131 1351 1393 1963; baseline 0.006 -217.362"><span class='ocrx_word' id='word_1_1' title='bbox 131 1351 1393 1963; x_wconf 65' lang='grc' dir='ltr'>ΒΒΡΡΒΕΜΒΝΤΒΜ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 25 1973 1842 2526">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 61 1973 1842 2526">
+     <span class='ocr_line' id='line_1_2' title="bbox 61 1973 1842 2296; baseline -0.003 -71"><span class='ocrx_word' id='word_1_2' title='bbox 61 2052 457 2233; x_wconf 78' lang='lat' dir='ltr'>RoTR</span> <span class='ocrx_word' id='word_1_3' title='bbox 550 2073 1471 2296; x_wconf 80' lang='lat' dir='ltr'>coRRORUM</span> <span class='ocrx_word' id='word_1_4' title='bbox 1686 1977 1690 1989; x_wconf 66' lang='grc'>’</span> <span class='ocrx_word' id='word_1_5' title='bbox 1838 1973 1842 2060; x_wconf 60' lang='lat'>³</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 25 2345 1841 2526; baseline -0.004 -69.652"><span class='ocrx_word' id='word_1_6' title='bbox 25 2345 1311 2506; x_wconf 61' lang='lat' dir='ltr'>3R1G1D0RUMAFRICT10NE</span> <span class='ocrx_word' id='word_1_7' title='bbox 1454 2515 1459 2526; x_wconf 27' lang='grc'><strong>5</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1671 2431 1676 2440; x_wconf 87' lang='grc'><strong>.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1839 2509 1841 2520; x_wconf 26' lang='grc'><strong>5</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 404 2545 1215 2680">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 404 2545 1215 2680">
+     <span class='ocr_line' id='line_1_4' title="bbox 404 2545 1215 2680; baseline -0.01 0"><span class='ocrx_word' id='word_1_10' title='bbox 404 2545 1007 2680; x_wconf 80' lang='grc' dir='ltr'>ΡΕΒΤΒΒΒΑΤΟ.</span> <span class='ocrx_word' id='word_1_11' title='bbox 1212 2567 1215 2580; x_wconf 68' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1872 5016">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1872 5016">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1872 5016; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1872 5016; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
